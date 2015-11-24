@@ -1,0 +1,22 @@
+{
+  "name": "node-gmail",
+  "version": "1.0.0",
+  "description": "A node wrapper for gmail.js",
+  "main": "gmail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulot/node-gmail.git"
+  },
+  "keywords": [
+    "gmail"
+  ],
+  "author": "Paulo Tanaka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulot/node-gmail/issues"
+  },
+  "homepage": "https://github.com/paulot/node-gmail#readme"
+}
