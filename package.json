@@ -11,7 +11,11 @@
     "url": "git+https://github.com/paulot/node-gmail.git"
   },
   "keywords": [
-    "gmail"
+    "gmail",
+    "gmail.js",
+    "node-gmail",
+    "gmail-npm",
+    "gmail-jquery"
   ],
   "author": "Paulo Tanaka",
   "license": "MIT",
